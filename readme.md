@@ -15,4 +15,5 @@ About me:
 
 I am a programmer with one year of experience in Python and basic knowledge of C++. I have completed courses in data structures, algorithms, data analysis, and databases. I am currently pursuing a Masters degree in philosophy with a focus on mathematics and programming at Helsinki University. In my free time, I enjoy tackling coding challenges such as projecteuler.net challenges and doing my own projects, which you can find here.
 
+![Celestial Body Simulation 2023-01-04 15-01-45(1)](https://user-images.githubusercontent.com/115335825/210561952-2766b448-3b4a-4b8a-8a14-67e9c6a198a4.gif)
 
