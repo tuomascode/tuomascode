@@ -17,4 +17,4 @@ I am a programmer with one year of experience in Python and basic knowledge of C
 
 ![Celestial Body Simulation 2023-01-04 15-01-45(1)](https://user-images.githubusercontent.com/115335825/210561952-2766b448-3b4a-4b8a-8a14-67e9c6a198a4.gif)
 
-![pygame window 2023-01-04 16-22-20(1)](https://user-images.githubusercontent.com/115335825/210576397-4d7c20e6-309b-4474-9918-d0c9a6042dbc.gif)
+![pygame window 2023-01-04 16-22-20(2)](https://user-images.githubusercontent.com/115335825/210576608-1b3b6de5-d245-40e5-b13b-2c19c52d2370.gif)
