@@ -12,7 +12,7 @@ I hope you enjoy exploring my projects! If you have any questions or feedback, p
 
 About me:
 
-I am a DevOps engineer and data science student. For the past 3.5 years I have worked as a DevOps engineer at Nokia on DCAP. My work there covers CI/CD (pipelines, custom runners, artifact management and Docker base images, plus quality control and test reporting) and TypeScript backend development on the API gateway.
+I am a DevOps engineer and data science student. For the 3.5 years I worked as a DevOps engineer at Nokia on DCAP. My work there covered CI/CD (pipelines, custom runners, artifact management and Docker base images, plus quality control and test reporting) and TypeScript backend development on the API gateway.
 
 I am currently pursuing a Master's degree in Data Science at the University of Helsinki, focusing on machine learning, deep learning, computer vision, trustworthy ML and MLOps, with minor studies in statistics and optimization. Before that I completed a Bachelor's degree in philosophy, where I focused on conceptual engineering and ML ethics, alongside minors in mathematics and programming.
 
