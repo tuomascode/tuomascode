@@ -18,7 +18,7 @@ I am currently pursuing a Master's degree in Data Science at the University of H
 
 In my free time, I enjoy tackling coding challenges such as projecteuler.net challenges and doing my own projects on ML modelling, algorithms, computer vision and simulation, which you can find here.
 
-I also enjoy writing about AI and philosophy and creating educational content, which you can check at [ajatteluntaito.fi](ajatteluntaito.fi)
+I also enjoy writing about AI and philosophy and creating educational content, which you can check at [ajatteluntaito.fi](https://ajatteluntaito.fi)
 
 ![Celestial Body Simulation 2023-01-04 15-01-45(1)](https://user-images.githubusercontent.com/115335825/210561952-2766b448-3b4a-4b8a-8a14-67e9c6a198a4.gif)
 
